@@ -1,16 +1,18 @@
-## Hi there 👋
+## I'm normal
 
-<!--
-**NormalRandomPeople/NormalRandomPeople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align="center">
+  <p>Here's a random joke, it's not from me so it might be bad</p>
+    
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=merko)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>but let's say it's from me if it's a good one</p>
+  </div>
+<br>
+<br>
+  <div align="center">
+    
+  ![](https://github-readme-stats.vercel.app/api?username=NormalRandomPeople&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=NormalRandomPeople&theme=tokyonight&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NormalRandomPeople&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=NormalRandomPeople&theme=tokyo-night)
+  </div>
