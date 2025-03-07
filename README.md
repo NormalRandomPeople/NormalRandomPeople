@@ -13,4 +13,4 @@
 
 **Visitor Count**
 
-![Visitor Count](https://count.getloli.com/get/@normalrandompeople?theme=minecraft)
+![Visitor Count](https://count.getloli.com/@normalrandompeople?name=normalrandompeople&theme=minecraft&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto)
